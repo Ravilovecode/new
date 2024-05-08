@@ -1,0 +1,11 @@
+pypdf
+llama_index
+sentence_transformers
+llama-index-llms-huggingface
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-embeddings-langchain
+llama-index-embeddings-huggingface
+llama-index-embeddings-langchain
+flask
+langchain
